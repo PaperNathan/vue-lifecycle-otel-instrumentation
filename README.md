@@ -1,0 +1,1 @@
+# Vue Lifecycle Instrumentation Plugin for OpenTelemetry
